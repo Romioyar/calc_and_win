@@ -13,6 +13,9 @@ def get_mid_attack():
     return randint(15, 25)
 
 
+# comment
+
+
 def get_hard_attack():
     return randint(30, 40)
 
